@@ -22,7 +22,7 @@ As for what I am most tentative or concerned about, I would be remiss if I didn'
 ## 4. Share something you enjoy!
 [Drop a link to something you really enjoy - could be a website, article, video, project, hobby, book, podcast, or anything else you're into]
 
-My friend and I have been sending a whole bunch of cat videos to each other over the past year. Here is one of the videos I find particularly amusing. 
+My friend and I have been sending a whole bunch of cat videos to each other over the past year. Here is one of the videos I find particularly amusing. Note that the video is on YouTube, accessible through the link: https://youtube.com/shorts/BnAMotPrY3U. You can also click the image below to be directly taken to the video!
 
 [![Cat Tantrum (YouTube)](https://img.youtube.com/vi/BnAMotPrY3U/0.jpg)](https://youtube.com/shorts/BnAMotPrY3U)
 
