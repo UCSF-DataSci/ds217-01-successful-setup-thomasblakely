@@ -24,7 +24,7 @@ As for what I am most tentative or concerned about, I would be remiss if I didn'
 
 My friend and I have been sending a whole bunch of cat videos to each other over the past year. Here is one of the videos I find particularly amusing. Note that the video is on YouTube, accessible through the link: https://youtube.com/shorts/BnAMotPrY3U. On the other hand, you can also click on the cute cat to be taken directly to the video!
 
-[![Cat Tantrum (YouTube)](cat.gif)](https://youtube.com/shorts/BnAMotPrY3U)
+[![Cat Tantrum (YouTube)](/Users/thomasblakely/Downloads/cat.gif)](https://youtube.com/shorts/BnAMotPrY3U)
 
 Note: Used https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md to try and get a working video embedded.
 
